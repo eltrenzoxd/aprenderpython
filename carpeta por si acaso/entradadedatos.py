@@ -16,5 +16,5 @@ print ('Mucho gusto '+nombre)
 print ("Tu edad es de:", edad)
 print ("Tu peso es de", peso)
 
-permiso = input('¿Eres mayor de edad? (Si/No)\n') == 'Si'
+permiso = input('¿Eres mayor de edad? (Si/No)') == 'Si'
 print (permiso)
