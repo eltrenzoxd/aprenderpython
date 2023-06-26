@@ -15,3 +15,6 @@ peso = float(input(¿Cual es tu peso?\n))
 print ('Mucho gusto '+nombre)
 print (Tu edad es de:, edad)
 print ('Tu peso es de', peso)
+
+permiso = input('¿Eres mayor de edad? (Si/No)\n') == 'Si'
+print (permiso)
