@@ -5,7 +5,7 @@
 #print (edad)
 #print (nombre)
 #print (trabajo)
-#todo lo anterior es lo mismo que:
+#Todo lo anterior es lo mismo que:
 edad,nombre,trabajo = 69,'pate baby','ser un flojo de mierda'
 
 print (edad)
