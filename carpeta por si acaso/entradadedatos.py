@@ -9,7 +9,7 @@
 #print ("tu peso es de:", peso )
 #El + es para unir una variable con otra
 #lo anterior es lo mismo que:
-nombre = input("¿Cual es tu nombre? \n")
+nombre = input("¿Cual es tu nombre?")
 edad = int(input("¿Cual es tu edad?"))
 peso = float(input("¿Cual es tu peso?"))
 print ('Mucho gusto '+nombre)
