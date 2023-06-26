@@ -26,3 +26,7 @@ print(result)
 
 int = ListaNumerica.index(69420)
 print(int)
+#tambien podemos ver las repeticiones de un numero
+int =ListaNumerica.index(0.987654321)
+repeatcount=ListaNumerica.count(0.987654321)
+print(repeatcount)
