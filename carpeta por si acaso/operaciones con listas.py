@@ -20,6 +20,9 @@ print (menor)
 #se puede sacar la longitud de la lista
 longitud =len(ListaNumerica)
 print(longitud)
-#y tambien se pueden encontrar numeros (true=si existe y false=no existe)
+#y tambien se pueden encontrar numeros y su indice (true=si existe y false=no existe)
 result = 69420 in(ListaNumerica)
 print(result)
+
+int = ListaNumerica.index(69420)
+print(int)
